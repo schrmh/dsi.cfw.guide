@@ -1,7 +1,7 @@
 ---
 layout: donations
-title: Donations
-excerpt: Support the creators of the guide
+title: Spenden
+excerpt: Unterstütze die Ersteller des Guides
 header:
   overlay_color: "#1a1d24"
 ---
@@ -13,5 +13,10 @@ paypal.me/emiyl
 
 [![Paypal]({{ "/assets/images/paypal_white.png" | absolute_url }}){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/jerbear64/10){: .align-center}{:target="_blank"}
 paypal.me/jerbear64
+{: .text-center}
+{: .notice}
+
+[![Paypal]({{ "/assets/images/paypal_white.png" | absolute_url }}){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/drberg/10){: .align-center}{:target="_blank"}
+paypal.me/derberg (german translation)
 {: .text-center}
 {: .notice}
