@@ -5,12 +5,12 @@ sidebar:
   nav: "side"
 ---
 
-Please read our [FAQ](/help/faq) before asking for help on Discord.
+Bitte lese unsere [FAQ](/help/faq) bevor du auf Discord um Hilfe bittest
 {: .notice--info}
 
-If you have any issues or problems regarding the guides on this site, please ask on Discord.
+Falls du Hilfe benötigst oder du Probleme hast, die den Guide auf dieser Seite betreffen, dann frage bitte auf Discord.
 
 ---
 
-[DSiBrew Discord](https://discord.gg/w4SKAr8){: .btn .btn--light-outline .btn--large}{:target="_blank"}
+[DSiBrew-Discord](https://discord.gg/w4SKAr8){: .btn .btn--light-outline .btn--large}{:target="_blank"}
 {: .text-center}

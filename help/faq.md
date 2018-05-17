@@ -5,18 +5,18 @@ sidebar:
   nav: "side"
 ---
 
-Please read the FAQ before asking for help on [Discord](/help/discord).
+Bitte lese unsere FAQ bevor du auf Discord [Discord](/help/discord) um Hilfe bittest.
 {: .notice--info}
 
-## Unlaunch freezes at "LOADING FAT"
+## Unlaunch friert bei "LOADING FAT" ein
 
-- Delete any DSiWare installed via twlnf in the past
-  - Make sure you have another homebrew entrypoint available
-- If you have not installed any DSiWare via twlnf, or the above method doesn't work, try installing [Unlaunch via TempNAND](/more/installing-unlaunch-(tempnand))
-  - Reflashing the NAND can cause severe degredation
-  - This method should only be used as a last resort
-- If neither methods work, please ask on [Discord](/help/discord)
+- Entferne jegliche DSiWare, die mittels twlnf in der Vergangenheit installiert wurde
+  - Stelle sicher, dass du noch einen anderen Homebrew-Eintrittpunkt zur Verfügung hast
+- Wenn du keine DSiWare durch twlnf installiert hast, oder die zuvor erwähnte Methode nicht funktioniert, versuche [Unlaunch mit TempNAND](/more/installing-unlaunch-(tempnand)) zu installieren
+  - Reflashing des NAND kann ernsthafte Schäden verursachen
+  - Diese Methode sollte nur als allerletzte Möglichkeit in Betracht gezogen werden
+- Wenn keine Methode funktioniert, frage bitte auf [Discord](/help/discord)
 
-## Can I use an SD card higher than 2GB with HiyaCFW yet?
+## Kann ich eine SD-Karte (gemeint ist Partition) mit HiyaCFW-Nutzen, die mehr als 2GB Speicherplatz bietet?
 
-No, not yet.
+Nein, zu diesem Zeitpunkt noch nicht.
