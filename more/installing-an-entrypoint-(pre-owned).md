@@ -1,5 +1,5 @@
 ---
-title: Installieren eines Entrypoints (vorher erworbene Titel)
+title: Installieren eines Entrypoints (mit erworbenenen Titeln)
 layout: single
 sidebar:
   nav: "side"
@@ -55,11 +55,11 @@ Die Benutzung von 4swordshax wird lediglich erlauben, Emulatoren und Homebrew-An
   - Guitar Rock Tour - `install_grtpwn_usa.nfs`
   -  The Legend of Zelda: Four Swords Anniversary - `install_4swordshax_usa.nfs`
 4. Drücke **A** um das Skript auszuführen
-  - If the dry run fails, you do not have the DSiWare installed
-5. Press **A** to install the application to NAND
-6. Once finished, press **Select** to quit twlnf
-7. Press **A** to confirm
-  - Your console will power off
+  - Wenn der Probedurchgang fehlschlägt, dann hast du die DSiWare nicht installiert
+5. Drücke **A**, um die App in den NAND zu installieren
+6. Wenn abgeschlossen, drücke **Select** um twlnf zu verlassen
+7. Drücke **A** zum Bestätigen
+  - Deine Konsole wird sich nun ausschalten
 
 ## Deinen Entrypoint nutzen
 
